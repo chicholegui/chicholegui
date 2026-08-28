@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on: Real-time AI agent architectures, Computer Vision pipelines, and low-latency inference systems.<br><br>👯 I’m looking to collaborate on: Open-source autonomous agents, WebGL/Three.js interactive ML visualizers, and edge AI projects.<br><br>🌱 I’m currently studying: Artificial Intelligence, Università di Pavia<br><br>💬 Ask me about: Python, PyTorch, FastAPI, Computer Vision (OpenCV/YOLO), Multi-Agent Systems, and 3D WebGL.<br>
+<br>🔭 I’m currently working on: Real-time AI agent architectures, Computer Vision pipelines, and low-latency inference systems.<br><br>👯 I’m looking to collaborate on: Open-source autonomous agents, WebGL/Three.js interactive ML visualizers, and edge AI projects.<br><br>🌱 I’m currently studying: Artificial Intelligence, Università di Pavia<br><br>💬 Ask me about: Python, PyTorch, FastAPI, Computer Vision, Multi-Agent Systems, and 3D WebGL.<br>
 
 
 ## 🌐 Socials:
